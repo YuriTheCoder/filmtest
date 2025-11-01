@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-ChildItem -Path ''C:\\Users\\yuri\\Downloads\\filmes'' -Force | Select-Object FullName, PSIsContainer, Length\")",
+      "Bash(powershell -Command \"Get-ChildItem -Path ''''C:\\Users\\yuri\\Downloads\\filmes\\.claude'''' -Force -Recurse | Select-Object FullName, PSIsContainer\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
