@@ -1,4 +1,4 @@
-# 🎬 Cinema App - Full Stack Movie Platform
+# 🎬 Cinema App - Movie Platform
 
 <div align="center">
 
